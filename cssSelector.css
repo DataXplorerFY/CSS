@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+}
+p{
+    color: white;
+}
+
+div{
+    background-color: black;
+}
+
+#farhan, h4{
+    background-color: rgb(123, 255, 0);
+    color: rgb(10, 141, 73);
+   
+
+}
+
+.secondclass{
+  color: rgb(18, 10, 176);
+
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
