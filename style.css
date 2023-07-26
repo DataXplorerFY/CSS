@@ -1,0 +1,19 @@
+.container{
+    background-color: brown;
+    color: white;
+}
+
+#first{
+    background-color: blue;
+    color: white;
+}
+
+#second{
+    background-color: blueviolet;
+    color: white;
+}
+
+.red{
+    background-color: aqua;
+    color: white;
+}
