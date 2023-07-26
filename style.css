@@ -1,19 +1,15 @@
-.container{
-    background-color: brown;
-    color: white;
-}
-
-#first{
-    background-color: blue;
-    color: white;
-}
-
-#second{
-    background-color: blueviolet;
-    color: white;
-}
-
 .red{
-    background-color: aqua;
+    background-color: red;
     color: white;
+}
+
+
+#head {
+    background-color: rgb(74, 66, 67);
+    color: rgba(255, 0, 0, 0.502);
+}
+
+.one{
+    background-color: blue;
+    color: rgb(254, 254, 254);
 }
